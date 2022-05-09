@@ -157,36 +157,3 @@
 
 
 
-#about1{
-  Height: 95vh;
-  Background: black;
-}
-
-.op{
-  Text-align: center;
-  Color: #fff;
-  Background: red;
-  border: 1px solid #cdc;
-  Border-radius:10px;
-  Margin-top: 15px;
-}
-.an{
-  Text-decoration: none;
-  Border: 2px solid red;
-  Border-radius: 10px;
-  Background: red;
-  Color: #fff;
-  Padding: 1px;
-}
-.an:hover{
-  Letter-spacing: 0.113em;
-}
-
-.rj{
-  Border: 1px solid  green;
-  Padding:10px;
-  Color: #fff;
-}
-.yn{
-  Color: #fff;
-}
